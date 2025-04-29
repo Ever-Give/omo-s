@@ -6,9 +6,9 @@ Author: spoilerman
 
 (second part of the third installment of my saga)
 
-$iframe data-embed-src="https://www.omorashi.org/topic/63878-jalana-return-of-the-brotherhood/?do=embed"
+$/63878-jalana-return-of-the-brotherhood/?do=embed"
 
-$iframe data-embed-src="https://www.omorashi.org/topic/64307-jalana-in-the-uromancers-lair-part-1/?do=embed"
+$/64307-jalana-in-the-uromancers-lair-part-1/?do=embed"
 
 Ja’Lana in the uromancer’s lair part 2
 
